@@ -3,10 +3,11 @@ body_models/
 
 HumanML3D/new_joint_vecs
 !HumanML3D/new_joint_vecs/012314.npy
-HumanML3D/new_joint_vecs_abs
+HumanML3D/new_joint_vecs_abs_3d
 
 HumanML3D/new_joints
 !HumanML3D/new_joints/012314.npy
+HumanML3D/new_joints_abs_3d
 
 joints/
 pose_data/
